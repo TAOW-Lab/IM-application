@@ -1,3 +1,6 @@
 [submodule "IM-backend"]
 	path = IM-backend
 	url = git@github.com:TAOWLabs/IM-backend.git
+[submodule "IM-smartcontract"]
+	path = IM-smartcontract
+	url = git@github.com:TAOWLabs/IM-smartcontract.git
